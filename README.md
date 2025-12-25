@@ -57,24 +57,6 @@ This system addresses these challenges by offering **AI-assisted image analysis*
 
 ---
 
-## 🛠️ Technology Stack
-
-### Frontend
-- HTML  
-- CSS  
-- JavaScript  
-
-### Backend & AI
-- Python  
-- Deep Learning models for medical image analysis  
-- Image processing techniques  
-
-### Tools
-- Git  
-- GitHub  
-
----
-
 ## 💫 Impact & Purpose
 
 This project aims to support the healthcare ecosystem by enhancing diagnostic capabilities through artificial intelligence. By assisting clinicians with image interpretation, the platform helps reduce workload, improve diagnostic accuracy, and speed up clinical workflows.
